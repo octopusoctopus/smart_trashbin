@@ -1,5 +1,5 @@
 # smart_trashbin
-cpp```
+```cpp
 #include<Servo.h>
 
 #define trig D3
