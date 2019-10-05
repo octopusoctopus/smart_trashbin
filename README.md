@@ -1,4 +1,9 @@
 # smart_trashbin
+거리가 15cm미만이 되면 문이 열리고 5초 뒤에 닫히는 
+
+
+
+
 ```cpp
 #include<Servo.h>
 
